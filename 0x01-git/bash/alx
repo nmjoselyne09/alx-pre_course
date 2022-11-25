@@ -3,3 +3,5 @@ echo "The school is open!"
 ALX
 ALX
 ALX School
+#!/bin/bash
+echo "ALX"
